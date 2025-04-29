@@ -40,17 +40,29 @@ MongoDB​
 
 
 EDTECH-PROJECT/
+
 ├── public/             # Static assets
+
 ├── server/             # Backend server code
+
 ├── src/                # Frontend source code
+
 ├── .editorconfig       # Editor configuration
+
 ├── .gitattributes      # Git attributes
+
 ├── .gitignore          # Git ignore file
+
 ├── .nvmrc              # Node version manager configuration
+
 ├── .prettierignore     # Prettier ignore file
+
 ├── README.md           # Project documentation
+
 ├── package.json        # Project dependencies and scripts
+
 ├── prettier.config.js  # Prettier configuration
+
 └── tailwind.config.js  # Tailwind CSS configuration
 
 📦 Installation
