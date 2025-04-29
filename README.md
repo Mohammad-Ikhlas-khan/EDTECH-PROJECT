@@ -1,9 +1,11 @@
-#StudyNotion – EdTech Platform
+StudyNotion – EdTech Platform
+
 StudyNotion is a full-stack EdTech web application designed to facilitate online learning by enabling instructors to create and manage courses, and students to enroll and engage with educational content.
 
-🔗 Live Demo: edtech-project-rho.vercel.app
+
 
 🚀 Features
+
 User Authentication: Secure sign-up and login functionalities for both instructors and students.
 
 Course Creation & Management: Instructors can create, update, and manage courses with ease.
@@ -16,6 +18,7 @@ Modern UI/UX: Clean and intuitive interface built with contemporary design princ
 
 
 🛠️ Tech Stack
+
 Frontend:
 
 React.js
@@ -50,7 +53,7 @@ EDTECH-PROJECT/
 ├── prettier.config.js  # Prettier configuration
 └── tailwind.config.js  # Tailwind CSS configuration
 
-#📦 Installation
+📦 Installation
 Clone the repository:
 
 git clone https://github.com/Mohammad-Ikhlas-khan/EDTECH-PROJECT.git
@@ -65,5 +68,5 @@ npm run dev
 
 The application will be available at http://localhost:3000.
 
-#🤝 Contributing
+🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
