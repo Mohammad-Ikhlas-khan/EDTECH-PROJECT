@@ -54,6 +54,7 @@ EDTECH-PROJECT/
 └── tailwind.config.js  # Tailwind CSS configuration
 
 📦 Installation
+
 Clone the repository:
 
 git clone https://github.com/Mohammad-Ikhlas-khan/EDTECH-PROJECT.git
@@ -64,9 +65,11 @@ Install dependencies:
 npm install
 
 Start the development server:
+
 npm run dev
 
 The application will be available at http://localhost:3000.
 
 🤝 Contributing
+
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
