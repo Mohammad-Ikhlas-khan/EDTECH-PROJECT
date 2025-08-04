@@ -125,6 +125,7 @@ cd ../server
 npm run dev
 ```
 *You should see your backend running on [http://localhost:4000].*
+
 **Run Frontend**
 ```
 cd ../src
@@ -132,7 +133,7 @@ cd ../src
 ```bash
 npm start
 ```
-*This will start the frontend on [http://localhost:3000].
+*This will start the frontend on [http://localhost:3000].*
 
 ## 🤝 Contributing
 
